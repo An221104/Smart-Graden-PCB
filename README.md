@@ -1,2 +1,10 @@
 # Smart-Graden-PCB
-Smart garden PCB powered by 12V input and a solar-charged backup battery. Supports sensors for temperature-humidity, UV, light, and soil moisture. Automatically controls pump and LEDs based on sensor data. Communicates via Wi-Fi and sends data to Blynk for real-time monitoring and remote control.
+This project is a custom-designed PCB solution for smart garden applications. The board manages environmental monitoring and device automation using sensor data and enables remote interaction via Wi-Fi.
+
+Power Supply System:
+  *Primary power: 12V DC input via adapter.
+  *Backup system: A solar panel charges a rechargeable battery.
+  *Automatic power switchover: When the 12V input is lost, the system automatically switches to battery power to ensure uninterrupted operation.
+
+Automated Control & Connectivity
+The system continuously reads real-time data from connected sensors and performs automated actions based on predefined conditions
